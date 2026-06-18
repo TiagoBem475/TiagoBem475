@@ -1,7 +1,14 @@
-## Oi eu sou o Tiago
-- 📚Cursando Engenharia de Software
-- 📖Estudando Python
-- 📬Gmail: tbem8768@gmail.com
+# Olá, eu sou o Tiago 👋
+
+🎓 Cursando Engenharia de Software
+
+📊 Interessado em Dados, Analytics e Business Intelligence
+
+🐍 Estudando Python
+
+💾 Aprendendo SQL
+
+📧 Contato: tbem8768@gmail.com
 ##
 Estou cursando Engenharia de Software e construindo minha carreira na área de Dados, Analytics e Inteligência de Negócios.
 ##
